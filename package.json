@@ -1,0 +1,19 @@
+{
+  "name": "node-falcon",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "etherport-client": "^0.1.4",
+    "gamepad": "^1.6.0",
+    "johnny-five": "^1.1.0"
+  },
+  "keywords": [
+    "Arduino",
+    "NodeMCU",
+    "Johnny-Five",
+    "NodeJS"
+  ]
+}
